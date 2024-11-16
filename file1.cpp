@@ -6,4 +6,6 @@ int main() {
 	int n;
 	cout << "Nhap n \n";
 	cin >> n;
+	if(n%2==0)
+	return "Day la so chan";
 }

@@ -8,4 +8,6 @@ int main() {
 	cin >> n;
 	if(n%2==0)
 	return "Day la so chan";
+	if(n%2!==0)
+		return "Day la so le";
 }

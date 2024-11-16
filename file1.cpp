@@ -13,4 +13,5 @@ int main() {
 	if(n%2!=0){
 		cout<< "Day la so le";
 	}
+
 }
